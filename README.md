@@ -53,7 +53,7 @@ A major hurdle with the management of such a vast range of activities and people
 <br/> <br/>
 As interns, our methodology for solving this critical problem was simple - we created a mobile application that serves as a one-stop for both Volunteers and Beneficiaries, as well as any third party Intervention managers. This application consists of the several forms that were previously spread out across various links, and allows a user to find what they want easily. The app also allows new members to Sign Up and Join the KEF as either a Volunteer or a Beneficiary.
 <br/><br>
-<strong>This repository contains the server-side code of the application, written in React Native. The code for the back-end is available [here](https://github.com/shameekbaranwal/KEF-API).</strong>
+<strong>This repository contains the server-side code of the application, written in Node. The code for the front-end is available [here](https://github.com/shameekbaranwal/KEF-Volunteering).</strong>
 
 ### Built With
 
